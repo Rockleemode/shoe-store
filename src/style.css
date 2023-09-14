@@ -7,3 +7,7 @@
 .card{
     @apply bg-white rounded overflow-hidden shadow-md;
 }
+
+.btn{
+    @apply rounded px-2 border-2 border-gray-400 m-2;
+}
